@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 
-print(openpyxl.__version__)
+
 
 #define functions 
 def style_negative(v, props=''):
